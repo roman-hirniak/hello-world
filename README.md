@@ -1,2 +1,1 @@
-# hello-world
-This is my first code repository
+This is second branch of my repository
